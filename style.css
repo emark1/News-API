@@ -1,0 +1,16 @@
+.images {
+    width: 200px;
+    height: 200px;
+}
+
+.picdescription{
+    display: inline;
+}
+
+
+/* author
+title
+description
+url (hyperlink to go to the news)
+urlToImage (image associated with the news) 
+publishedA */
